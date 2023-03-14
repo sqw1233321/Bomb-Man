@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bomb
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Bomb
+  - Ground
+  - Environment
+  - NPC
+  - Player
+  - EnemyCheck
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlatForm
+    uniqueID: 1828817439
+    locked: 0
+  - name: Background
+    uniqueID: 4035407937
+    locked: 0
+  - name: EnemyDead
+    uniqueID: 3592302311
+    locked: 0
+  - name: Player
+    uniqueID: 659508573
+    locked: 0
+  - name: NPC
+    uniqueID: 3707094547
+    locked: 0
+  - name: Candle
+    uniqueID: 2607376291
+    locked: 0
